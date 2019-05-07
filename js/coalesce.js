@@ -9,13 +9,13 @@ const baseSpeed = 0.1;
 const rangeSpeed = 1;
 const baseSize = 2;
 const rangeSize = 10;
-const baseHue = 10;
-const rangeHue = 100;
+const baseHue = 226;
+const rangeHue = 10;
 const noiseSteps = 2;
 const xOff = 0.0025;
 const yOff = 0.005;
 const zOff = 0.0005;
-const backgroundColor = 'hsla(60,50%,3%,1)';
+const backgroundColor = 'hsla(0,0%,0%,1)';
 
 let container;
 let canvas;
@@ -127,7 +127,7 @@ function createCanvas() {
 		b: document.createElement('canvas')
 	};
 	canvas.b.style = `
-		position: fixed;
+    position: fixed;
 		top: 0;
 		left: 0;
 		width: 100%;
