@@ -5,4 +5,4 @@ What's this you ask?
 
 It's yet another gsheps.net revamp, this time with EVEN MORE JAVASCRIPT! Let's get cracking! 
 
-![Demoimage](https://github.com/Phoenixthedoggo/gsheps.net-v3/blob/master/assets/demo.png)
+![Demoimage](https://github.com/Phoenixthedoggo/gsheps.net-v3/blob/master/photos/demo.png)
